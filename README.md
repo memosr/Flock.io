@@ -38,6 +38,7 @@
 - ✔️ https://forms.gle/oFWMEVkhZevwYBwd6 Bu formu dolduruyoruz gerekli bilgileri verdikten sonra WL kaydettiklerinde aşağıda ki linkten faucet alacağız
 - ✔️ https://train.flock.io/faucet
 - ✔️ Herşey tamamsa bundan sonra diğer sayfalardan validator veya training node kuracağız.
+ [Validator](https://github.com/memosr/Flock.io/blob/main/Validator.md) -  [Training](https://github.com/memosr/Flock.io/blob/main/Training.md) 
 - ✔️ Herhangi bir node kurulumu yapamayacaklar içinse delegetor kısmı var sadece yani aşırı basit direk [linki](https://docs.flock.io/flock-products/ai-arena/quickstart/delegator-guide) bırakıyorum.
 
 

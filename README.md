@@ -10,9 +10,7 @@
 </h1>
 
 
- * [Topluluk kanalımız](https://t.me/corenodechat)<br>
- * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
- * [Discord](https://discord.gg/XBGP8Ccgpm)<br>
+* [Discord](https://discord.gg/XBGP8Ccgpm)<br>
  * [Twitter](https://twitter.com/flock_io)<br>
  * [Flock Website](https://www.flock.io/)<br>
  * [Flock Blog](https://www.flock.io/blog)<br>
